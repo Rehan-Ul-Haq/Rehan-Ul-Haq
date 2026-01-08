@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rehan-Ul-Haq.Rehan-Ul-Haq&left_color=red&right_color=green&left_text=Visitors" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+👋+I'm+M+Rehan+ul+Haq;Digital+FTE+Architect;AI+Product+Manager+%7C+Educator" />
-  </a>
+  👋 Hi, I'm <span style="color:#ff5722;">M. Rehan ul Haq</span>
 </h1>
 
 <h3 align="center">
